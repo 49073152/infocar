@@ -41,8 +41,9 @@ class Home extends StatelessWidget {
                           "Olá",
                           style: TextStyle(fontSize: 25, color: Colors.black45),
                         ),
+                        //terminarde codar(vai la)
                         Text(
-                          "ian",
+                          "terminar",
                           style: TextStyle(
                             fontSize: 25,
                             fontWeight: FontWeight.bold,
